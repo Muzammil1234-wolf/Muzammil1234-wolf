@@ -7,6 +7,5 @@
 - ⚡ Fun fact: NA
 
 <!---
-Muzammil1234-wolf/Muzammil1234-wolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
